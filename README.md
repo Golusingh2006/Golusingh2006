@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, My Name is Golu Kumar. I am a Full-Stack Developer with a strong focus on the MERN stack and Python. Currently, I'm applying my skills in the real world as a Frontend Developer Intern at Kartsho.<br><br>I thrive on building seamless web applications using React.js and Express.js, and I take pride in owning the full lifecycle of my projects—from writing the code to deploying it on platforms like AWS, Vercel, and Netlify. Right now, I am actively expanding my expertise into Agentic AI, exploring how smart, autonomous agents can integrate with modern web architecture to solve complex problems.
+<br>Hi, My Name is Golu Kumar. I am a Full-Stack Developer with a strong focus on the MERN stack and Python. Currently, I'm applying my skills in the real world as a Full Stack Developer .<br><br>I thrive on building seamless web applications using React.js and Express.js, and I take pride in owning the full lifecycle of my projects—from writing the code to deploying it on platforms like AWS, Vercel, and Netlify. Right now, I am actively expanding my expertise into Agentic AI, exploring how smart, autonomous agents can integrate with modern web architecture to solve complex problems.
 
 
 ## 🌐 Socials:
